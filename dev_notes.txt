@@ -1,0 +1,5 @@
+npx create-react-app  my-blog
+npm install react-router-dom
+
+npm init -y
+npm install express
